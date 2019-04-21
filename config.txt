@@ -1,0 +1,6 @@
+owner=455051009560150018
+prefix=4
+game=Pàris.
+stayinchannel=true
+songinstatus=false
+token=NTY5NjM2NTI1OTgyMjIwMzIz.XLzhiw.7nd9sjPQneO7XMLSHoLfSWbV_FA
